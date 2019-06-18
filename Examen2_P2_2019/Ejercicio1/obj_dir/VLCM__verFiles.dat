@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -Wno-fatal --cc LCM.v --exe lcm.cpp"
+S   4117944  8566523  1433741508 "/usr/bin/verilator_bin"
+S       405  2126199  1560815646 "LCM.v"
+T      3917  2138648  1560815650 "obj_dir/VLCM.cpp"
+T      2622  2138647  1560815650 "obj_dir/VLCM.h"
+T      1935  2138650  1560815650 "obj_dir/VLCM.mk"
+T       564  2138646  1560815650 "obj_dir/VLCM__Syms.cpp"
+T       942  2138645  1560815650 "obj_dir/VLCM__Syms.h"
+T       194  2138651  1560815650 "obj_dir/VLCM__ver.d"
+T         0        0  1560815650 "obj_dir/VLCM__verFiles.dat"
+T      1079  2138649  1560815650 "obj_dir/VLCM_classes.mk"
